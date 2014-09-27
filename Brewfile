@@ -1,6 +1,6 @@
 # brew
-install brew-cask
-install openssl
+#install brew-cask
+#install openssl
 
 # for cordova
 install node
@@ -24,7 +24,7 @@ cask install google-drive
 cask install xquartz
 cask install inkscape
 
-cask clean
+cask cleanup
 
 
 # brew で入れたやつ？
