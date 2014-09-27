@@ -17,6 +17,7 @@ cask install hipchat
 cask install skype
 
 cask install evernote
+cask install freemind
 
 cask install google-japanese-ime
 
