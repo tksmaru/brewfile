@@ -1,5 +1,5 @@
-# brew
-#install brew-cask
+# brew cask
+install caskroom/cask/brew-cask
 #install openssl
 
 # for cordova
@@ -18,8 +18,12 @@ cask install skype
 
 cask install evernote
 
+cask install google-japanese-ime
+
 cask install atom
 cask install google-drive
+
+cask install google-chrome
 
 cask install xquartz
 cask install inkscape
