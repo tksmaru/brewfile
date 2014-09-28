@@ -21,6 +21,7 @@ cask install skype
 cask install evernote
 cask install dropbox
 cask install freemind
+cask install openoffice
 
 cask install google-japanese-ime
 
