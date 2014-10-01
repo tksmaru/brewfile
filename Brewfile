@@ -6,6 +6,7 @@ install caskroom/cask/brew-cask
 install node
 install ant
 install ios-sim
+install sbt
 
 # brew-cask
 # enable TRIM
