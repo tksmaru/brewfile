@@ -6,6 +6,8 @@ install caskroom/cask/brew-cask
 install node
 install ant
 install ios-sim
+
+install scala
 install sbt
 
 # brew-cask
