@@ -14,8 +14,6 @@ install sbt
 # enable TRIM
 cask install trim-enabler
 
-cask install java
-
 cask install iterm2
 
 cask install hipchat
