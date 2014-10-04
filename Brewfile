@@ -31,6 +31,8 @@ cask install google-drive
 
 cask install google-chrome
 
+cask install sourcetree
+
 cask install xquartz
 cask install inkscape
 
