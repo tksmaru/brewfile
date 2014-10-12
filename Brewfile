@@ -2,6 +2,9 @@
 install caskroom/cask/brew-cask
 #install openssl
 
+# tap
+tap homebrew/versions
+
 # for cordova
 install node
 install ant
@@ -9,6 +12,7 @@ install ios-sim
 
 install scala
 install sbt
+install homebrew/versions/maven2
 
 # brew-cask
 # enable TRIM
