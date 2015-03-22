@@ -40,6 +40,11 @@ cask install sourcetree
 cask install xquartz
 cask install inkscape
 
+# Docker
+install docker
+install boot2docker
+cask install virtualbox
+
 cask cleanup
 
 
